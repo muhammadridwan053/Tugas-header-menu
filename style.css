@@ -1,0 +1,29 @@
+.title {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title h1 {
+    color: rgb(223, 122, 72);
+    font-size: 66px;
+}
+.btn {
+    background-color: black;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+ul { 
+    float: right;
+    margin-top: 10px;
+}
+
+ul li {
+    display: inline-block;
+}
+.main {
+    max-width: 800px;
+    margin: 30px;
+}
